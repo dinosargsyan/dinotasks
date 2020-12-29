@@ -1,0 +1,25 @@
+
+#itemImg{
+    width: 300px;
+    height: 400px;
+}
+.listItem{
+    display:inline-block;
+    float: none;
+    margin: 10px;
+    width: 300px;
+    height: 600px;
+    border-width: 2px;
+    border-color: gray;
+    border-radius: 10px;;
+    border-style: inset;
+}
+.itemTitle{
+    
+    margin: 0px;
+    text-shadow: 2px 2px 5px rgb(22, 50, 141);
+    font-size: 30px;
+}
+#descId{
+    margin: 15px 0 15px 0;
+}
