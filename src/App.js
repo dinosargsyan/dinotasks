@@ -1,21 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import Button from '../src/components/button/button';
-import Item from '../src/components/ListItem/listItem';
+import Form from '../src/container/Form/form'
+
 
 
 function App() {
   return (
     <div className="App">
-     <Item />
-     <Item />
-     <Item />
-     <Item />
-     <Item />
-     <Item />
-     <Item />
-     <Item />
-     
+   <Form />
     </div>
   );
 }
