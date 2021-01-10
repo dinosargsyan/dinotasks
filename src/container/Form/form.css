@@ -1,7 +1,8 @@
 .Form{
     
 margin: 0 auto;
-margin-top: 70px;
+margin-top: 35px;
+margin-bottom: 35px;;
   flex-direction: column;
   align-items: center;
   width: 200px;
