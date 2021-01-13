@@ -53,6 +53,8 @@ const Form = () => {
     <Input type="password" placeholder="Password" onChange={onChangePassword} value={password}> </Input>
     <a onClick={ onChangeIsLogin }>Log in</a>
     <Button onClick={ signUp }>Sign Up</Button>
+
+
    
     </div>
    )
