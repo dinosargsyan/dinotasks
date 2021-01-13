@@ -5,6 +5,7 @@ import Header from './container/Header/header';
 import Footer from './container/Footer/footer';
 import Layout from './components/layout/layout';
 import './container/Form/form';
+import Products from './container/products/products';
 
 
 
@@ -13,6 +14,8 @@ function App() {
     <div className="App">  
      
       <Header />
+      <Products />
+      <Form />
       <Layout />
          </div>
         
